@@ -1,0 +1,11 @@
+"contract_number","td_code","service","deleted","package_reference"
+"222222",2,"ВЛ",False,NULL
+"222222",3,"ДМФ",False,NULL
+"222222",4,"IPTV",False,NULL
+"222222",5,"IPTV",True,NULL
+"222222",6,"Видеосервис",True,NULL
+"222222",7,"Видеосервис",True,NULL
+"222222",8,"Оборудование",True,NULL
+"222222",9,"КТВ",False,NULL
+"222222",10,"Оборудование",True,NULL
+"222222",11,"Оборудование",True,NULL
